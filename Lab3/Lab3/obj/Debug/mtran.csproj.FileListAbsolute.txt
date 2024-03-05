@@ -1,0 +1,14 @@
+D:\6SEM\mtran\mtran\bin\Debug\mtran.exe.config
+D:\6SEM\mtran\mtran\bin\Debug\mtran.exe
+D:\6SEM\mtran\mtran\bin\Debug\mtran.pdb
+D:\6SEM\mtran\mtran\obj\Debug\mtran.csproj.CoreCompileInputs.cache
+D:\6SEM\mtran\mtran\obj\Debug\mtran.exe
+D:\6SEM\mtran\mtran\obj\Debug\mtran.pdb
+D:\6SEM\mtran\mtran\obj\Debug\mtran.csproj.AssemblyReference.cache
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\bin\Debug\mtran.exe.config
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\bin\Debug\mtran.exe
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\bin\Debug\mtran.pdb
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\obj\Debug\mtran.csproj.AssemblyReference.cache
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\obj\Debug\mtran.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\obj\Debug\mtran.exe
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\obj\Debug\mtran.pdb
