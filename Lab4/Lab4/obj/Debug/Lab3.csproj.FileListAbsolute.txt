@@ -1,0 +1,14 @@
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\bin\Debug\mtran.exe.config
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\bin\Debug\mtran.exe
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\bin\Debug\mtran.pdb
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\obj\Debug\mtran.exe
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\mtran\obj\Debug\mtran.pdb
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\bin\Debug\mtran.exe.config
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\bin\Debug\mtran.exe
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\bin\Debug\mtran.pdb
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\obj\Debug\mtran.exe
+C:\Users\37529\Desktop\Лекции\МТран\Labs\Lab3\Lab3\obj\Debug\mtran.pdb
